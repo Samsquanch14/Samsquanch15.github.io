@@ -3,7 +3,7 @@ layout: post
 title: Drawing with Python
 description: The is a python code that draws a cool star!
 ---
-
+description
 import turtle, random  #importing turtle to draw and random for random colors.
 a=turtle.Turtle()
 
